@@ -33,7 +33,7 @@
 
 ​ (5) String algorithms
 
-​ (6) Math
+​ (6) [Math](https://github.com/Pyotato/data_structure_algorithms_study/tree/master/6_Math)
 
 [SECTION 2] 데이터 구조
 
