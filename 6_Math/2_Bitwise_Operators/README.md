@@ -40,10 +40,15 @@
   ```
 
 - XOR , NOT, right shift, left shift 와 같이 다른 비트연산자들도 있음
+
 - 비트연산자 유용성
 
   - 🥰[숫자가 짝수인지 홀수인지 판단해야할때](https://github.com/Pyotato/data_structure_algorithms_study/blob/master/6_Math/2_Bitwise_Operators/_isOddOrEven.js)
-  -
+  - 🥰[숫자가 2ⁿ인지 판단해야할 때]()
+
+- ⚠️ boundary condition 고려하기 (ft. 예상 못한 에러방지)
+
+---
 
 - 🤔js 관련 개념은 뭐가 있을까 하다가 생각난 것들 정리
   - 논리연산자
