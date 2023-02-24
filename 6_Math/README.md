@@ -17,7 +17,9 @@ tmi))🤓 nerd같을 수 있는데 중학생 때 도형의 각도 구하고 그�
 
 1. [Binary](https://github.com/Pyotato/data_structure_algorithms_study/tree/master/6_Math/1_Binary)
 2. [Bitwise Operators](https://github.com/Pyotato/data_structure_algorithms_study/tree/master/6_Math/2_Bitwise_Operators)
-3. FizzBuzz
+3. [FizzBuzz]()
 4. Greatest Common Factor
 5. Euclid's Algorithm
 6. Primes
+
+⚠️ `boundary condition` 고려하기 (ft. 예상 못한 에러방지)
